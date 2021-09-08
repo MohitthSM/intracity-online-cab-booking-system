@@ -1,0 +1,26 @@
+h1 {
+  font-size: 500%;
+}
+a {
+  background-color: gray;
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:active {
+  background-color: black;
+}
+
+a:hover {
+  background-color: #555;
+}
+
+a:visited {
+  background-color: gray;
+}
+body{
+	background-color: black;	
+	color:white;
+}
